@@ -123,4 +123,8 @@ public class OrderHandler {
     public void hello(){
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>!!!!!!!!!!!!!!!!!!!!!!!!");
     }
+
+    public void hello002(){
+        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>!!!!!!!!!!!!!!!!!!!!!!!!");
+    }
 }
