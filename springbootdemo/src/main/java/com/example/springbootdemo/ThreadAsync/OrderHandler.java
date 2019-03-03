@@ -123,4 +123,8 @@ public class OrderHandler {
     public void hello(){
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>!!!!!!!!!!!!!!!!!!!!!!!!");
     }
+
+    public void gitStashTest(){
+        System.out.println("33333333333333333333333333000000000000000000000000000!!!!!!!!!");
+    }
 }
